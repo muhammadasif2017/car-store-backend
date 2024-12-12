@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for car-store-backend-solitary-water-5776 on 2024-12-12T11:38:35+05:00
+# fly.toml app configuration file generated for car-store-backend on 2024-12-12T12:20:02+05:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'car-store-backend-solitary-water-5776'
+app = 'car-store-backend'
 primary_region = 'syd'
 
 [build]
